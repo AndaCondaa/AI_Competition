@@ -5,3 +5,5 @@
 *.AppleDB
 ._*
 Icon?
+data/
+*.jpg
